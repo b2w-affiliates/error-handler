@@ -1,0 +1,22 @@
+{
+  "name": "error-handler",
+  "version": "1.0.0",
+  "description": "package to set as default error handling when using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b2w-affiliates/error-handler.git"
+  },
+  "author": "Igor Costa <igorgabriel@outlook.com> (http://igorgcosta.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b2w-affiliates/error-handler/issues"
+  },
+  "homepage": "https://github.com/b2w-affiliates/error-handler#readme",
+  "dependencies": {
+    "afiliados-logger": "^1.0.0"
+  }
+}
